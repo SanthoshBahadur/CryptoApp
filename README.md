@@ -1,3 +1,4 @@
+# MyCryptoApplication
 Associated with New Horizon College, Kasturinagar, NGEF Layout, Bangalore-43Associated with New Horizon College, Kasturinagar, NGEF Layout, Bangalore-43 🪙 CryptoApp: Combining Real-time Data, Interactive Charts, Seamless UI Design and Real-time messaging functionality.
 
 🚀Here's a brief overview of the key components and technologies utilized:
