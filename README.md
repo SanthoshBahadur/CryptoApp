@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+Associated with New Horizon College, Kasturinagar, NGEF Layout, Bangalore-43Associated with New Horizon College, Kasturinagar, NGEF Layout, Bangalore-43 🪙 CryptoApp: Combining Real-time Data, Interactive Charts, Seamless UI Design and Real-time messaging functionality.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🚀Here's a brief overview of the key components and technologies utilized:
 
-## Available Scripts
+💡 React.js & Redux Toolkit: Leveraged the power of React.js and Redux Toolkit to create a scalable and maintainable codebase, ensuring efficient state management and seamless data flow.
 
-In the project directory, you can run:
+📊 Chart.js: Integrated Chart.js library to display dynamic and interactive charts showcasing real-time cryptocurrency data. These visually appealing charts provided users with a comprehensive overview of currency fluctuations.
 
-### `npm start`
+🌐 Rapid API: Utilized Rapid API to access up-to-date and accurate cryptocurrency data, enabling real-time market updates and ensuring the reliability of information presented to users.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🎨 Ant Design: Implemented Ant Design UI components to create a sleek and intuitive user interface. This allowed users to easily navigate the app, track their favorite cryptocurrencies, and access detailed information effortlessly.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🔒 OAuth: Implemented OAuth authentication to provide users with secure login and registration functionality. This ensured the privacy and security of user data while offering a streamlined user experience.
 
-### `npm test`
+🌌 Three.js: Integrated Three.js library to incorporate 3D visualizations and animations, creating an immersive and engaging experience for users.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🔌 Node.js & Socket.io: Utilized Node.js and Socket.io to enable real-time messaging functionality, facilitating seamless communication between users and enhancing collaboration within the CryptoApp community
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Skills: Material-UI · Mongoose ODM · MongoDB · React.js · Node.js · Chart.js · OAuth · Redux Toolkit · Rapid Api · Ant Design · Three.js · Socket.io
